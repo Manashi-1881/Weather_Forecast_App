@@ -2,7 +2,7 @@
 Build a weather app to predict the state of the atmosphere of the given location
 
 ## Screenshot
-
+![](app.JPG)
 
 ## Features
 
